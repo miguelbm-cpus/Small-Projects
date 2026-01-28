@@ -1,3 +1,5 @@
+# Compute pay calculator with overtime logic.
+
 def computepay(h, r):
     overtime = h - 40
     ot = overtime * r * 1.5
